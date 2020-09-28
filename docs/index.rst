@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ###########################################################
-Welcome to learnX Documentation's documentation!
+Welcome to learnX Documentation!
 ###########################################################
 
 This guide provides instructions for using your own instance of the Open edX
